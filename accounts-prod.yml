@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts related production APIs "
+  message: "Welcome to Bank accounts related prod APIs, testing for webhook API "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}465764b159da74ee2ba38049e885435472e3b31b7a1783f91e305a1c00498170a0e0513447eb54da2397c6b929fe9dd0"
